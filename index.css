@@ -1,0 +1,22 @@
+a {
+    display: inline-block;
+    border:1px solid black;
+    padding: 20px;
+    margin-top: auto;
+}
+
+div {
+    height: 150px;
+    width: 200px;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+span {
+    border: 1px solid black;
+}
+
+footer {
+    border: 1px solid black;
+}
+
